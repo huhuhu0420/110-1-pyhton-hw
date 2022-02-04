@@ -1,0 +1,21 @@
+5 15
+Once I was seven years old
+my mama told me
+mama love me
+my
+and my
+COPY_L 3
+REPLACE mama daddy
+INSERT_AFTER daddy and
+INSERT_AFTER and mama
+PASTE_AFTER 4 1
+PASTE_AFTER 5 3
+DEL_W 4 2
+DEL_W 5 2
+DEL_W 5 3
+ADD_W_AFTER 4 1 sister
+ADD_W_AFTER 5 2 grandma
+ADD_W_AFTER 5 5 ha
+COPY 5 6
+PASTE_FRONT 5 6
+PASTE_AFTER 5 6

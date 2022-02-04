@@ -1,0 +1,12 @@
+5 6
+I have a
+pen
+apple
+Ugh
+apple
+COPY_L 1
+DEL_L 1
+PASTE_FRONT 1 1
+PASTE_FRONT 2 1
+COPY 1 4
+PASTE_AFTER 4 1

@@ -1,0 +1,12 @@
+5 6
+Morning mom
+Morning dear
+What is for breakfast
+Here are your eggs and milk
+Looks good
+INSERT_FRONT Morning Good
+REPLACE Morning night
+DEL_L 1
+DEL_W 1 3
+ADD_S_AFTER 4 thanks mom
+COUNT

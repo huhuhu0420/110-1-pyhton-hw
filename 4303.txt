@@ -1,0 +1,7 @@
+5
+NSYSU NC CT NS NM
+NTU BC NC CT NS
+NCCU BC NL HL
+Providence BC NC
+NTHU BC NS
+!BC + !NS + NL

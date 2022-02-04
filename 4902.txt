@@ -1,0 +1,12 @@
+4 7
+Loving can hurt
+Loving can hurt sometimes
+It is the only thing makes us feel alive
+we keep this love in a photograph
+DEL_L 1
+DEL_L 2
+ADD_S_FRONT 2 Maybe
+INSERT_FRONT hurt not
+COPY 1 2
+PASTE_AFTER 2 2
+COUNT

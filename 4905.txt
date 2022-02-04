@@ -1,0 +1,22 @@
+6 15
+You lives in a pineapple in the sea
+Who
+Absorbent and yellow and porous is he
+Spongebob
+nautical nonsense be something
+Squarepants
+DEL_W 1 6
+ADD_W_FRONT 5 1 If
+ADD_W_AFTER 1 5 under
+COPY 6 1
+PASTE_AFTER 4 1
+COPY 4 1
+PASTE_FRONT 6 1
+COPY 6 2
+PASTE_AFTER 2 1
+DEL_W 2 1
+COPY 4 1
+PASTE_FRONT 2 1
+REPLACE You Who
+ADD_S_AFTER 5 you wish
+COUNT
