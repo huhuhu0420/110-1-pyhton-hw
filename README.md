@@ -1,3 +1,3 @@
 # pyhton-hw
 
-MY HOMEWOrk!!
+MY HOMEWORK!!
